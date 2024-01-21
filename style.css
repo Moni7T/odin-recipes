@@ -1,0 +1,25 @@
+.OdRe {
+    background-color: black;
+    color: cyan;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.OdLi {
+    font-family: 'Helvetica';
+}
+
+h1, h2 {
+    font-weight: bold;
+    background-color: brown;
+    color: yellow;
+}
+
+ul, ol {
+    background-color: black;
+    color: white;
+} 
