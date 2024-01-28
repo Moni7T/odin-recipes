@@ -1,25 +1,30 @@
-.OdRe {
-    background-color: black;
-    color: cyan;
+.heading {
+    background-color: rgb(148, 38, 38);
     font-weight: bold;
     text-align: center;
+    color: white;
 }
 
-h1, h2 {
+.dexlist {
+    background-color: bisque;
+    padding: 10px;
     text-align: center;
+    border-style: dotted;
+    border-color: brown;
 }
 
-.OdLi {
-    font-family: 'Helvetica';
+.bigheading {
+    border-style: double;
+    border-color: black;
+    padding: 10px;
 }
 
-h1, h2 {
-    font-weight: bold;
-    background-color: brown;
-    color: yellow;
+.content {
+    background-color: bisque;
+    padding: 5px;
 }
 
 ul, ol {
-    background-color: black;
-    color: white;
-} 
+    list-style-position: inside;
+}
+
